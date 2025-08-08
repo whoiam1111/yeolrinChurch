@@ -31,7 +31,7 @@ function MailIcon({ className }: { className?: string }) {
   );
 }
 
-export default function UnderConstructionPage(): JSX.Element {
+export default function UnderConstructionPage(){
   return (
     <div className="bg-stone-50 font-sans text-stone-700">
       <div className="flex min-h-screen flex-col items-center justify-center px-4 py-12">
