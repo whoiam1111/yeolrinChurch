@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import React from 'react';
 
 export const metadata: Metadata = {
   title: '열린교회 | 새 단장 중입니다',
